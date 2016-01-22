@@ -1,4 +1,4 @@
-echo "creating Parrot-2.1_i386.iso torrent"
+echo "creating Parrot-2.2_i386.iso torrent"
 mktorrent \
 -a http://37.187.6.219:6969/announce \
 -a http://announce.torrentsmd.com:6969/announce \
@@ -44,25 +44,25 @@ mktorrent \
 -a udp://tracker.prq.to:80/announce \
 -a udp://tracker.publicbt.com:80/announce \
 -a udp://tracker.tntvillage.scambioetico.org:2710/announce \
--c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.1, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
--w http://www.parrotsec.org/get/mit/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/mtu/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/jmu/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/clarkson/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/dasaweb/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/garr/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/frozebox/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/rwth-aachen/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/yandex/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/dhakacom/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/asis/2.1/Parrot-2.1_i386.iso,\
-http://www.parrotsec.org/get/lagoon/2.1/Parrot-2.1_i386.iso,\
+-c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.2, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
+-w http://www.parrotsec.org/get/mit/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/mtu/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/jmu/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/clarkson/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/dasaweb/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/garr/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/frozebox/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/rwth-aachen/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/yandex/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/dhakacom/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/asis/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/lagoon/2.2/Parrot-2.2_i386.iso,\
 \
-http://citylan.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_i386.iso -l 21 Parrot-2.1_i386.iso
+http://citylan.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_i386.iso -l 21 Parrot-2.2_i386.iso
 
 
 
-echo "creating Parrot-2.1_amd64.iso torrent"
+echo "creating Parrot-2.2_amd64.iso torrent"
 mktorrent \
 -a http://37.187.6.219:6969/announce \
 -a http://announce.torrentsmd.com:6969/announce \
@@ -108,26 +108,26 @@ mktorrent \
 -a udp://tracker.prq.to:80/announce \
 -a udp://tracker.publicbt.com:80/announce \
 -a udp://tracker.tntvillage.scambioetico.org:2710/announce \
--c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.1, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
--w http://www.parrotsec.org/get/mit/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/mtu/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/jmu/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/clarkson/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/dasaweb/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/garr/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/frozebox/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/rwth-aachen/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/yandex/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/dhakacom/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/asis/2.1/Parrot-2.1_amd64.iso,\
-http://www.parrotsec.org/get/lagoon/2.1/Parrot-2.1_amd64.iso,\
+-c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.2, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
+-w http://www.parrotsec.org/get/mit/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/mtu/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/jmu/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/clarkson/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/dasaweb/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/garr/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/frozebox/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/rwth-aachen/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/yandex/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/dhakacom/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/asis/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/lagoon/2.2/Parrot-2.2_amd64.iso,\
 \
-http://citylan.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-2.1_amd64.iso -l 21 Parrot-2.1_amd64.iso
+http://citylan.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-2.2_amd64.iso -l 21 Parrot-2.2_amd64.iso
 
 
 
 
-echo "creating Parrot-full-2.1_i386.iso torrent"
+echo "creating Parrot-full-2.2_i386.iso torrent"
 mktorrent \
 -a http://37.187.6.219:6969/announce \
 -a http://announce.torrentsmd.com:6969/announce \
@@ -173,26 +173,26 @@ mktorrent \
 -a udp://tracker.prq.to:80/announce \
 -a udp://tracker.publicbt.com:80/announce \
 -a udp://tracker.tntvillage.scambioetico.org:2710/announce \
--c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.1, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
--w http://www.parrotsec.org/get/mit/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/mtu/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/jmu/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/clarkson/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/dasaweb/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/garr/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/frozebox/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/rwth-aachen/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/yandex/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/dhakacom/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/asis/2.1/Parrot-full-2.1_i386.iso,\
-http://www.parrotsec.org/get/lagoon/2.1/Parrot-full-2.1_i386.iso,\
+-c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.2, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
+-w http://www.parrotsec.org/get/mit/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/mtu/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/jmu/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/clarkson/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/dasaweb/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/garr/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/frozebox/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/rwth-aachen/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/yandex/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/dhakacom/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/asis/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/lagoon/2.2/Parrot-full-2.2_i386.iso,\
 \
-http://citylan.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_i386.iso -l 21 Parrot-full-2.1_i386.iso
+http://citylan.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_i386.iso -l 21 Parrot-full-2.2_i386.iso
 
 
 
 
-echo "creating Parrot-full-2.1_amd64.iso torrent"
+echo "creating Parrot-full-2.2_amd64.iso torrent"
 mktorrent \
 -a http://37.187.6.219:6969/announce \
 -a http://announce.torrentsmd.com:6969/announce \
@@ -238,26 +238,26 @@ mktorrent \
 -a udp://tracker.prq.to:80/announce \
 -a udp://tracker.publicbt.com:80/announce \
 -a udp://tracker.tntvillage.scambioetico.org:2710/announce \
--c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.1, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
--w http://www.parrotsec.org/get/mit/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/mtu/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/jmu/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/clarkson/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/dasaweb/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/garr/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/frozebox/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/rwth-aachen/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/yandex/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/dhakacom/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/asis/2.1/Parrot-full-2.1_amd64.iso,\
-http://www.parrotsec.org/get/lagoon/2.1/Parrot-full-2.1_amd64.iso,\
+-c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.2, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
+-w http://www.parrotsec.org/get/mit/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/mtu/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/jmu/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/clarkson/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/dasaweb/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/garr/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/frozebox/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/rwth-aachen/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/yandex/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/dhakacom/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/asis/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/lagoon/2.2/Parrot-full-2.2_amd64.iso,\
 \
-http://citylan.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-full-2.1_amd64.iso -l 21 Parrot-full-2.1_amd64.iso
+http://citylan.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-full-2.2_amd64.iso -l 21 Parrot-full-2.2_amd64.iso
 
 
 
 
-echo "creating Parrot-cloud-2.1_i386.iso torrent"
+echo "creating Parrot-cloud-2.2_i386.iso torrent"
 mktorrent \
 -a http://37.187.6.219:6969/announce \
 -a http://announce.torrentsmd.com:6969/announce \
@@ -303,26 +303,26 @@ mktorrent \
 -a udp://tracker.prq.to:80/announce \
 -a udp://tracker.publicbt.com:80/announce \
 -a udp://tracker.tntvillage.scambioetico.org:2710/announce \
--c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.1, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
--w http://www.parrotsec.org/get/mit/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/mtu/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/jmu/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/clarkson/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/dasaweb/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/garr/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/frozebox/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/rwth-aachen/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/yandex/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/dhakacom/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/asis/2.1/Parrot-cloud-2.1_i386.iso,\
-http://www.parrotsec.org/get/lagoon/2.1/Parrot-cloud-2.1_i386.iso,\
+-c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.2, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
+-w http://www.parrotsec.org/get/mit/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/mtu/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/jmu/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/clarkson/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/dasaweb/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/garr/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/frozebox/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/rwth-aachen/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/yandex/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/dhakacom/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/asis/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/lagoon/2.2/Parrot-cloud-2.2_i386.iso,\
 \
-http://citylan.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_i386.iso -l 21 Parrot-cloud-2.1_i386.iso
+http://citylan.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_i386.iso -l 21 Parrot-cloud-2.2_i386.iso
 
 
 
 
-echo "creating Parrot-cloud-2.1_amd64.iso torrent"
+echo "creating Parrot-cloud-2.2_amd64.iso torrent"
 mktorrent \
 -a http://37.187.6.219:6969/announce \
 -a http://announce.torrentsmd.com:6969/announce \
@@ -368,18 +368,18 @@ mktorrent \
 -a udp://tracker.prq.to:80/announce \
 -a udp://tracker.publicbt.com:80/announce \
 -a udp://tracker.tntvillage.scambioetico.org:2710/announce \
--c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.1, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
--w http://www.parrotsec.org/get/mit/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/mtu/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/jmu/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/clarkson/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/dasaweb/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/garr/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/frozebox/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/rwth-aachen/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/yandex/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/dhakacom/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/asis/2.1/Parrot-cloud-2.1_amd64.iso,\
-http://www.parrotsec.org/get/lagoon/2.1/Parrot-cloud-2.1_amd64.iso,\
+-c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 2.2, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
+-w http://www.parrotsec.org/get/mit/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/mtu/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/jmu/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/clarkson/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/dasaweb/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/garr/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/frozebox/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/rwth-aachen/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/yandex/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/dhakacom/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/asis/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/lagoon/2.2/Parrot-cloud-2.2_amd64.iso,\
 \
-http://citylan.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.1/Parrot-cloud-2.1_amd64.iso -l 21 Parrot-cloud-2.1_amd64.iso
+http://citylan.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/2.2/Parrot-cloud-2.2_amd64.iso -l 21 Parrot-cloud-2.2_amd64.iso
