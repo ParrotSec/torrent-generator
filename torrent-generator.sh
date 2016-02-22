@@ -49,6 +49,9 @@ mktorrent \
 http://www.parrotsec.org/get/mtu/2.2/Parrot-2.2_i386.iso,\
 http://www.parrotsec.org/get/jmu/2.2/Parrot-2.2_i386.iso,\
 http://www.parrotsec.org/get/clarkson/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/cedia/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/espoch/2.2/Parrot-2.2_i386.iso,\
+http://www.parrotsec.org/get/uta/2.2/Parrot-2.2_i386.iso,\
 http://www.parrotsec.org/get/dasaweb/2.2/Parrot-2.2_i386.iso,\
 http://www.parrotsec.org/get/garr/2.2/Parrot-2.2_i386.iso,\
 http://www.parrotsec.org/get/frozebox/2.2/Parrot-2.2_i386.iso,\
@@ -113,6 +116,9 @@ mktorrent \
 http://www.parrotsec.org/get/mtu/2.2/Parrot-2.2_amd64.iso,\
 http://www.parrotsec.org/get/jmu/2.2/Parrot-2.2_amd64.iso,\
 http://www.parrotsec.org/get/clarkson/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/cedia/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/espoch/2.2/Parrot-2.2_amd64.iso,\
+http://www.parrotsec.org/get/uta/2.2/Parrot-2.2_amd64.iso,\
 http://www.parrotsec.org/get/dasaweb/2.2/Parrot-2.2_amd64.iso,\
 http://www.parrotsec.org/get/garr/2.2/Parrot-2.2_amd64.iso,\
 http://www.parrotsec.org/get/frozebox/2.2/Parrot-2.2_amd64.iso,\
@@ -178,6 +184,9 @@ mktorrent \
 http://www.parrotsec.org/get/mtu/2.2/Parrot-full-2.2_i386.iso,\
 http://www.parrotsec.org/get/jmu/2.2/Parrot-full-2.2_i386.iso,\
 http://www.parrotsec.org/get/clarkson/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/cedia/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/espoch/2.2/Parrot-full-2.2_i386.iso,\
+http://www.parrotsec.org/get/uta/2.2/Parrot-full-2.2_i386.iso,\
 http://www.parrotsec.org/get/dasaweb/2.2/Parrot-full-2.2_i386.iso,\
 http://www.parrotsec.org/get/garr/2.2/Parrot-full-2.2_i386.iso,\
 http://www.parrotsec.org/get/frozebox/2.2/Parrot-full-2.2_i386.iso,\
@@ -243,6 +252,9 @@ mktorrent \
 http://www.parrotsec.org/get/mtu/2.2/Parrot-full-2.2_amd64.iso,\
 http://www.parrotsec.org/get/jmu/2.2/Parrot-full-2.2_amd64.iso,\
 http://www.parrotsec.org/get/clarkson/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/cedia/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/espoch/2.2/Parrot-full-2.2_amd64.iso,\
+http://www.parrotsec.org/get/uta/2.2/Parrot-full-2.2_amd64.iso,\
 http://www.parrotsec.org/get/dasaweb/2.2/Parrot-full-2.2_amd64.iso,\
 http://www.parrotsec.org/get/garr/2.2/Parrot-full-2.2_amd64.iso,\
 http://www.parrotsec.org/get/frozebox/2.2/Parrot-full-2.2_amd64.iso,\
@@ -308,6 +320,9 @@ mktorrent \
 http://www.parrotsec.org/get/mtu/2.2/Parrot-cloud-2.2_i386.iso,\
 http://www.parrotsec.org/get/jmu/2.2/Parrot-cloud-2.2_i386.iso,\
 http://www.parrotsec.org/get/clarkson/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/cedia/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/espoch/2.2/Parrot-cloud-2.2_i386.iso,\
+http://www.parrotsec.org/get/uta/2.2/Parrot-cloud-2.2_i386.iso,\
 http://www.parrotsec.org/get/dasaweb/2.2/Parrot-cloud-2.2_i386.iso,\
 http://www.parrotsec.org/get/garr/2.2/Parrot-cloud-2.2_i386.iso,\
 http://www.parrotsec.org/get/frozebox/2.2/Parrot-cloud-2.2_i386.iso,\
@@ -373,6 +388,9 @@ mktorrent \
 http://www.parrotsec.org/get/mtu/2.2/Parrot-cloud-2.2_amd64.iso,\
 http://www.parrotsec.org/get/jmu/2.2/Parrot-cloud-2.2_amd64.iso,\
 http://www.parrotsec.org/get/clarkson/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/cedia/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/espoch/2.2/Parrot-cloud-2.2_amd64.iso,\
+http://www.parrotsec.org/get/uta/2.2/Parrot-cloud-2.2_amd64.iso,\
 http://www.parrotsec.org/get/dasaweb/2.2/Parrot-cloud-2.2_amd64.iso,\
 http://www.parrotsec.org/get/garr/2.2/Parrot-cloud-2.2_amd64.iso,\
 http://www.parrotsec.org/get/frozebox/2.2/Parrot-cloud-2.2_amd64.iso,\
