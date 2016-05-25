@@ -1,4 +1,4 @@
-echo "creating Parrot-3.0.160524RC_i386.iso torrent"
+echo "creating Parrot-standard-3.0.160524RC_i386.iso torrent"
 mktorrent \
 -a http://37.187.6.219:6969/announce \
 -a http://announce.torrentsmd.com:6969/announce \
@@ -45,36 +45,36 @@ mktorrent \
 -a udp://tracker.publicbt.com:80/announce \
 -a udp://tracker.tntvillage.scambioetico.org:2710/announce \
 -c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 3.0, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
--w http://www.parrotsec.org/get/mit/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/mtu/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/jmu/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/clarkson/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/berkeley/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/cedia/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/uta/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/ueb/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/dasaweb/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/garr/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/frozebox/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/rwth-aachen/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/warwick/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/nluug/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/onet/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/umu/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/heanet/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/esslingen/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/yandex/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/amberit/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/nchc/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/asis/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/lagoon/3.0/Parrot-3.0.160524RC_i386.iso,\
-http://www.parrotsec.org/get/aptus/3.0/Parrot-3.0.160524RC_i386.iso,\
+-w http://www.parrotsec.org/get/mit/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/mtu/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/jmu/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/clarkson/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/berkeley/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/cedia/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/uta/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/ueb/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/dasaweb/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/garr/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/frozebox/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/rwth-aachen/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/warwick/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/nluug/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/onet/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/umu/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/heanet/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/esslingen/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/yandex/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/amberit/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/nchc/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/asis/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/lagoon/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
+http://www.parrotsec.org/get/aptus/3.0/Parrot-standard-3.0.160524RC_i386.iso,\
 \
-http://citylan.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_i386.iso -l 21 Parrot-3.0.160524RC_i386.iso
+http://citylan.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_i386.iso -l 21 Parrot-standard-3.0.160524RC_i386.iso
 
 
 
-echo "creating Parrot-3.0.160524RC_amd64.iso torrent"
+echo "creating Parrot-standard-3.0.160524RC_amd64.iso torrent"
 mktorrent \
 -a http://37.187.6.219:6969/announce \
 -a http://announce.torrentsmd.com:6969/announce \
@@ -121,31 +121,31 @@ mktorrent \
 -a udp://tracker.publicbt.com:80/announce \
 -a udp://tracker.tntvillage.scambioetico.org:2710/announce \
 -c "Parrot Security OS official torrent\n\nthis torrent is meant to be used for parrot 3.0, don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
--w http://www.parrotsec.org/get/mit/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/mtu/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/jmu/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/clarkson/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/berkeley/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/cedia/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/uta/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/ueb/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/dasaweb/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/garr/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/frozebox/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/rwth-aachen/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/warwick/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/nluug/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/onet/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/umu/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/heanet/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/esslingen/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/yandex/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/amberit/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/nchc/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/asis/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/lagoon/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://www.parrotsec.org/get/aptus/3.0/Parrot-3.0.160524RC_amd64.iso,\
-http://citylan.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-3.0.160524RC_amd64.iso -l 21 Parrot-3.0.160524RC_amd64.iso
+-w http://www.parrotsec.org/get/mit/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/mtu/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/jmu/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/clarkson/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/berkeley/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/cedia/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/uta/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/ueb/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/dasaweb/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/garr/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/frozebox/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/rwth-aachen/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/warwick/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/nluug/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/onet/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/umu/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/heanet/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/esslingen/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/yandex/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/amberit/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/nchc/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/asis/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/lagoon/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://www.parrotsec.org/get/aptus/3.0/Parrot-standard-3.0.160524RC_amd64.iso,\
+http://citylan.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://colocrossing.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://freefr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://garr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://heanet.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://ignum.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://internode.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://iweb.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://jaist.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://kaz.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://kent.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://liquidtelecom.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://nbtelecom.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://nchc.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://ncu.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://netassist.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://netcologne.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://skylineservers.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://skylink.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://superb-dca2.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://superb-dca3.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://tcpdiag.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://tenet.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://ufpr.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso,http://vorboss.dl.sourceforge.net/project/parrotsecurity/3.0/Parrot-standard-3.0.160524RC_amd64.iso -l 21 Parrot-standard-3.0.160524RC_amd64.iso
 
 
 
