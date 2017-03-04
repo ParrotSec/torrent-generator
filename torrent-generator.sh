@@ -61,4 +61,4 @@ http://superb-sea2.dl.sourceforge.net/project/parrotsecurity/$PATH/$ISOFILE,\
 http://tenet.dl.sourceforge.net/project/parrotsecurity/$PATH/$ISOFILE,\
 http://ufpr.dl.sourceforge.net/project/parrotsecurity/$PATH/$ISOFILE,\
 http://vorboss.dl.sourceforge.net/project/parrotsecurity/$PATH/$ISOFILE\
- -l 23 $ISOFILE
+ -l 21 $ISOFILE
