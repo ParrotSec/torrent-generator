@@ -5,6 +5,7 @@ echo "creating torrent for $ISOFILE"
 
 mktorrent \
 -a http://37.187.6.219:6969/announce \
+-a http://linuxtracker.org:2710/announce \
 -a http://tracker.tntvillage.scambioetico.org:2710/announce \
 -a udp://tracker.tntvillage.scambioetico.org:2710/announce \
 -a udp://atrack.pow7.com:80/announce \
