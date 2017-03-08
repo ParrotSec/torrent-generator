@@ -1,9 +1,9 @@
-
-$ISOFILE=$1
-$PATH=$2
+#!/bin/bash
+ISOFILE=$1
+PATH=$2
 echo "creating torrent for $ISOFILE"
 
-mktorrent \
+/usr/bin/mktorrent \
 -a http://37.187.6.219:6969/announce \
 -a http://linuxtracker.org:2710/announce \
 -a http://tracker.tntvillage.scambioetico.org:2710/announce \
