@@ -4,6 +4,8 @@ PATH=$2
 echo "creating torrent for $ISOFILE"
 
 /usr/bin/mktorrent \
+-a http://tracker.parrotsec.org/announce \
+-a https://tracker.parrotsec.org/announce \
 -a http://37.187.6.219:6969/announce \
 -a http://linuxtracker.org:2710/announce \
 -a http://tracker.tntvillage.scambioetico.org:2710/announce \
