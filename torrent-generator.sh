@@ -1,20 +1,11 @@
 #!/bin/bash
-ISOFILE=$1
-PATH=$2
+ISOFILE=$2
+PATH=$1
 echo "creating torrent for $ISOFILE"
 
 /usr/bin/mktorrent \
--a http://tracker.parrotsec.org/announce \
 -a https://tracker.parrotsec.org/announce \
--a http://37.187.6.219:6969/announce \
--a http://linuxtracker.org:2710/announce \
--a http://tracker.tntvillage.scambioetico.org:2710/announce \
--a udp://tracker.tntvillage.scambioetico.org:2710/announce \
--a udp://atrack.pow7.com:80/announce \
 -a udp://ipv4.tracker.harry.lu:80/announce \
--a udp://pow7.com:80/announce \
--a udp://t2.pow7.com:80/announce \
--a udp://tracker.ilibr.org:80/announce \
 -a udp://tracker.coppersurfer.tk:6969 \
 -c "Parrot Security OS official torrent - don't seed it if an updated version is available. for security reasons we don't want old releases to be still used" \
 -w http://mirrors.ocf.berkeley.edu/parrot/$PATH/$ISOFILE,\
@@ -27,7 +18,6 @@ http://mirror.ueb.edu.ec/parrot/$PATH/$ISOFILE,\
 http://ba.mirror.garr.it/mirrors/parrot/$PATH/$ISOFILE,\
 http://ct.mirror.garr.it/mirrors/parrot/$PATH/$ISOFILE,\
 http://ftp.halifax.rwth-aachen-de/parrotsec/$PATH/$ISOFILE,\
-http://anorien.csc.warwick.ac.uk/mirrors/parrot/$PATH/$ISOFILE,\
 http://ftp.nluug.nl/os/Linux/distr/parrot/$PATH/$ISOFILE,\
 http://mirror.onet.pl/pub/mirrors/parrot/$PATH/$ISOFILE,\
 http://ftp.acc.umu.se/mirror/parrotsec.org/parrot/$PATH/$ISOFILE,\
@@ -50,7 +40,7 @@ http://parrot.asis.io/$PATH/$ISOFILE,\
 http://mirror.lagoon.nc/pub/parrot/$PATH/$ISOFILE,\
 http://mirror.kku.ac.th/parrot/$PATH/$ISOFILE,\
 http://parrot-na.archive.parrotsec.org/parrot/$PATH/$ISOFILE,\
-http://mirrordirector.archive.parrotsec.org/parrot/$PATH/$ISOFILE,\
+http://archive.parrotsec.org/parrot/$PATH/$ISOFILE,\
 \
 http://citylan.dl.sourceforge.net/project/parrotsecurity/$PATH/$ISOFILE,\
 http://colocrossing.dl.sourceforge.net/project/parrotsecurity/$PATH/$ISOFILE,\
